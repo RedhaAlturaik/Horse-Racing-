@@ -4,7 +4,7 @@ This project is a full-stack Horse Racing Database System built using MySQL, C#,
 ## Team
 1. Mohammed Alfaraj – 202323090 – Section 1
 2. Redha Alturaik – 202323010 – Section 3
-Project Team: 46
+- Project Team: 46
 
 ## Technologies Used
 - C# (.NET / ASP.NET)
